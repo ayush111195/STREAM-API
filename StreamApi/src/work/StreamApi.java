@@ -10,7 +10,7 @@ public class StreamApi {
 
 	public static void main(String[] args) {
 
-		// Q)ceate a list and filter the even number from liat-->>
+		// Q)ceate a list and filter the even number from liat -->>
 		
 		
 		//this  are the 3 method to creat a list--->>
