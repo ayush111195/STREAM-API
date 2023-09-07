@@ -15,7 +15,7 @@ public class StreamApi {
 		
 		//this  are the 3 method to creat a list--->>
 		
-		List<Integer> list1=List.of(2,3,15,21,22,67);  / !ye unmodifed hoti h 
+		List<Integer> list1=List.of(2,3,15,21,22,67); / !ye unmodifed hoti h 
 		
 		List<Integer> list2=new ArrayList<>();
 		list2.add(2);
